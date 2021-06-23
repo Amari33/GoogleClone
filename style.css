@@ -150,16 +150,52 @@ header {
 .footer {
   background-color: #f2f2f2;
   height: 100px;
-}
-
-.footer {
   display: flex;
   align-items: center;
   padding: 20px;
   justify-content: space-between;
 }
 
-footer ul li a {
+ul li a {
   font-size: 16px;
   color: gray;
+}
+
+.a {
+  position: relative;
+  top: 50px;
+}
+
+.b {
+  position: relative;
+  top: 28px;
+  left: 95px;
+}
+
+.Ab {
+  position: relative;
+  top: 5px;
+  left: 180px;
+}
+
+.H {
+  position: relative;
+  bottom: 18px;
+  left: 240px;
+}
+
+.p {
+  position: relative;
+  top: 46px;
+}
+
+.T {
+  position: relative;
+  top: 23px;
+  right: 60px;
+}
+
+.S {
+  position: relative;
+  right: 130px;
 }
