@@ -159,7 +159,7 @@ header {
   justify-content: space-between;
 }
 
-footer li {
+footer ul li a {
   font-size: 16px;
   color: gray;
 }
