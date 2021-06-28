@@ -161,41 +161,18 @@ ul li a {
   color: gray;
 }
 
-.a {
-  position: relative;
-  top: 50px;
+.right-footer li {
+  display: flex;
 }
 
-.b {
-  position: relative;
-  top: 28px;
-  left: 95px;
+.right-footer {
+  margin-left: 15px;
 }
 
-.Ab {
-  position: relative;
-  top: 5px;
-  left: 180px;
+.left-footer {
+  display: flex;
 }
 
-.H {
-  position: relative;
-  bottom: 18px;
-  left: 240px;
-}
-
-.p {
-  position: relative;
-  top: 46px;
-}
-
-.T {
-  position: relative;
-  top: 23px;
-  right: 60px;
-}
-
-.S {
-  position: relative;
-  right: 130px;
+.left-footer li {
+  margin-left: 15px;
 }
