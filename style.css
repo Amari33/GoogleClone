@@ -161,11 +161,11 @@ ul li a {
   color: gray;
 }
 
-.right-footer li {
+.right-footer {
   display: flex;
 }
 
-.right-footer {
+.right-footer li {
   margin-left: 15px;
 }
 
